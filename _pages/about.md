@@ -52,7 +52,7 @@ My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz a
 
 # 📖 Educations
 - *2024.09 - now*, M.S. School of Computer Science and Engineering, Northeastern University
-- *2020.09 - 2024.07*, B.S. College of Computer Science, Yangtze University
+- *2020.09 - 2024.07*, B.S. School of Computer Science, Yangtze University
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
