@@ -40,7 +40,7 @@ My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz a
 
 **Mingyan Wu**, [Zhenghao Liu$^{\*}$](https://scholar.google.com/citations?user=4vrZRk0AAAAJ),[Yukun Yan$^{\*}$](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Xinze Li](https://eureka336.github.io), [Shi Yu](https://scholar.google.com/citations?user=xcMVPTgAAAAJ), [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Yu Gu](https://scholar.google.com/citations?user=IDYbTZwAAAAJ), [Ge Yu](https://scholar.google.com/citations?user=HClMOmUAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2502.17888) \| [**📄PDF**](https://arxiv.org/pdf/2505.22130) \| [![](https://img.shields.io/github/stars/NEUIR/RankCoT?style=social&label=Code+Stars)](https://github.com/NEUIR/RankCoT)
+[**📃Paper**](https://arxiv.org/abs/2502.17888) \| [**📄PDF**](https://arxiv.org/abs/2502.17888) \| [![](https://img.shields.io/github/stars/NEUIR/RankCoT?style=social&label=Code+Stars)](https://github.com/NEUIR/RankCoT)
 
 - This work leverages the strengths of both ranking and summarization to effectively refine the knowledge from retrieval results, thereby aiding LLMs in generating more accurate responses.
 </div>
