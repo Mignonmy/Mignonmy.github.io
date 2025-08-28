@@ -29,7 +29,7 @@ My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz a
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉 We released [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG) [![](https://img.shields.io/github/stars/OpenBMB/UltraRAG?style=social&label=Code+Stars)](https://github.com/OpenBMB/UltraRAG), an low-code framework for building complex RAG systems!
-- *2025.05*: &nbsp;🎉🎉 Our paper RankCoT is accepted by ACL 2025!
+- *2025.05*: &nbsp;🎉 Our paper RankCoT is accepted by ACL 2025!
 
 
 # 📝 Publications 
