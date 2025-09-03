@@ -21,7 +21,7 @@ I am currently a second year M.S. student in Computer Science at [Northeastern U
 
 My research interests span NLP, Information Retrieval, LLM, RAG, and Multi Modal. I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/) (from [Tsinghua University](https://www.tsinghua.edu.cn)), as well as at [Qiyuan Lab](https://qiyuanzp.zhiye.com/), [OpenBMB](https://www.openbmb.cn/) and [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works) (from [Tsinghua University](https://www.tsinghua.edu.cn)).
 
-My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz and hiphop. I usually play folk guitar. If you share these interests, I would be glad to connect and grow together 📞.
+My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz and hiphop. I usually play folk guitar. If you share these interests, I would be glad to connect and grow together 📞.<br><br>
 
 👀<span style="color:#8952ee; font-weight:bold;">
 I am looking for a Ph.D. position starting in Fall 2027 and would love to explore potential collaborations. Let’s connect!
