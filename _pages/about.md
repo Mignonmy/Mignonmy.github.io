@@ -21,7 +21,7 @@ I am currently a second-year Master's student in Computer Science at [Northeaste
 
 <!-- I am a second-year M.S. student in Computer Science at [Northeastern University](https://neu.edu.cn/). My current research focuses on Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Multi-Modal LLMs. -->
 
-Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [Qiyuan Lab](https://qiyuanzp.zhiye.com/), [OpenBMB](https://www.openbmb.cn/) and [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works) .
+Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [Qiyuan Lab](https://qiyuanzp.zhiye.com/), and [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works) .
 
 My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz and hiphop. I usually play folk guitar. If you share these interests, I would be glad to connect and grow together 📞.<br><br>
 
@@ -64,5 +64,5 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.04 - now*, [Qiyuan Lab](https://qiyuanzp.zhiye.com/), Beijing.
+- *2024.04 - now*, [Qiyuan Lab](https://qiyuanzp.zhiye.com/), [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Beijing.
 - *2023.10 - now*, [NEUIR Lab](https://neuir.github.io), [Northeastern University](https://neu.edu.cn/), Shenyang.
