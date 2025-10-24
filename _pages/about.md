@@ -45,7 +45,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 **Mingyan Wu**, [Zhenghao Liu$^{\*}$](https://scholar.google.com/citations?user=4vrZRk0AAAAJ),[Yukun Yan$^{\*}$](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Xinze Li](https://eureka336.github.io), [Shi Yu](https://scholar.google.com/citations?user=xcMVPTgAAAAJ), [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Yu Gu](https://scholar.google.com/citations?user=IDYbTZwAAAAJ), [Ge Yu](https://scholar.google.com/citations?user=HClMOmUAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2502.17888) \| [**📄PDF**](https://arxiv.org/pdf/2502.17888) \| [![](https://img.shields.io/github/stars/NEUIR/RankCoT?style=social&label=Code+Stars)](https://github.com/NEUIR/RankCoT)
+[**📃Paper**](https://aclanthology.org/2025.acl-long.629/) \| [**📄PDF**](https://aclanthology.org/2025.acl-long.629.pdf) \| [![](https://img.shields.io/github/stars/NEUIR/RankCoT?style=social&label=Code+Stars)](https://github.com/NEUIR/RankCoT)
 
 - This work leverages the strengths of both ranking and summarization to effectively refine the knowledge from retrieval results, thereby aiding LLMs in generating more accurate responses.
 </div>
