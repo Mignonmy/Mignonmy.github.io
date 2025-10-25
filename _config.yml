@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingyan Wu"
-description              : "NEUIR & Qiyuan Lab"
+description              : "NEUIR & THUNLP"
 repository               : "Mignonmy/Migonmy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Mingyanwu@stumail.neu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=9YgV-8MAAAAJ"
+  email            : "mignonmiyoung@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
