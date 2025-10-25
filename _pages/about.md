@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student in Computer Science at [Northeastern University](https://neu.edu.cn/), focusing on Retrieval-Augmented Generation, Large Language Models, and Multi-Modal Large Language Models.
+I am currently a second-year Master's student in Computer Science at [Northeastern University](https://neu.edu.cn/), focusing on Retrieval-Augmented Generation, Large Language Models, and Multi-Modal Large Language Models. Google Scholar: <a href='https://scholar.google.com/citations?user=9YgV-8MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- I am a second-year M.S. student in Computer Science at [Northeastern University](https://neu.edu.cn/). My current research focuses on Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Multi-Modal LLMs. -->
 
