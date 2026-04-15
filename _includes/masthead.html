@@ -8,6 +8,13 @@
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <!-- ✅ Dark mode button -->
+          <li class="masthead__menu-item">
+            <button onclick="toggleDark()" id="theme-btn"
+              style="background:none;border:none;cursor:pointer;">
+              🌙
+            </button>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

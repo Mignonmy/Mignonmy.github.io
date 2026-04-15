@@ -2,3 +2,16 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<!-- ✅ Dark mode script -->
+<script>
+function toggleDark() {
+  document.body.classList.toggle("dark");
+
+  const isDark = document.body.classList.contains("dark");
+  localStorage.setItem("theme", isDark ? "dark" : "light");
+
+
+  const btn = document.getElementById("theme-btn");
+  if (btn) btn.innerText = isDark ? "☀️" : "🌙";
+}
