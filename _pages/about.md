@@ -30,7 +30,7 @@ My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz a
 My research aims to advance autonomous agents capable of exploring, reasoning, and acting.
 - **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [GraphAnchor](https://www.arxiv.org/abs/2601.16462)), Deep Research ([EigentSearch-Q+](https://arxiv.org/abs/2604.07927)), AI Memory.
 - **How can models reason efficiently**: Love to explore collaborations!
-- **Agent Infrastructure**: [UltraRAG](https://github.com/OpenBMB/UltraRAG).
+- **Agent Infrastructure**: [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG).
 
 
 👀<span style="color:#8952ee; font-weight:bold;">
