@@ -26,7 +26,7 @@ Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/
 My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz and hiphop. I usually play folk guitar. If you share these interests, I would be glad to connect and grow together 📞.<br><br>
 
 
-# Research Interests
+# 🔎 Research Interests
 My research aims to advance autonomous agents capable of exploring, reasoning, and acting.
 - **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [GraphAnchor](https://www.arxiv.org/abs/2601.16462)), Deep Research, AI Memory.
 - **How can models reason efficiently**: Love to explore collaborations!
