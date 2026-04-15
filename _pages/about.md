@@ -32,6 +32,7 @@ My research aims to advance autonomous agents capable of exploring, reasoning, a
 - **How can models reason efficiently**: Love to explore collaborations!
 - **Agent Infrastructure**: [UltraRAG](https://github.com/OpenBMB/UltraRAG).
 
+
 👀<span style="color:#8952ee; font-weight:bold;">
 I am looking for a Ph.D. position starting in Fall 2027 and would love to explore potential collaborations. Let’s connect!
 </span> 
@@ -46,12 +47,28 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 # 📝 Publications 
 > \* indicates **equal contribution**, and † indicates **corresponding author**.
+
+<!-- EigentSearch-Q+ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/EigentSearch-Q+.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools
+
+[Boer Zhang](https://scholar.google.com/citations?user=0BJ49hwAAAAJ), **Mingyan Wu**, [Dongzhuoran Zhou](https://scholar.google.com/citations?user=TbZH2gUAAAAJ), [Yuqicheng Zhu](https://scholar.google.com/citations?user=TE5jy5cAAAAJ), Wendong Fan, Puzhen Zhang, [Zifeng Ding](https://scholar.google.com/citations?user=8RapuD4AAAAJ), [Guohao Li](https://scholar.google.com/citations?user=J9K-D0sAAAAJ), [Yuan He<sup>†</sup>](https://scholar.google.com/citations?user=sCXUhQcAAAAJ)
+
+[**📃Paper**](https://arxiv.org/abs/2604.07927) \| [**📄PDF**](https://arxiv.org/pdf/2604.07927) \| [![](https://img.shields.io/github/stars/camel-ai/eigent_search?style=social&label=Code+Stars)](https://github.com/camel-ai/eigent_search)
+
+- This work introduces Q+, a set of query and evidence processing tools that make web search more deliberate by guiding query planning, monitoring search progress, and extracting evidence from long web snapshots. 
+</div>
+</div>
+
+<!-- RankCoT -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/RankCoT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts
 
-**Mingyan Wu**, [Zhenghao Liu<sup>†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ),[Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Xinze Li](https://eureka336.github.io), [Shi Yu](https://scholar.google.com/citations?user=xcMVPTgAAAAJ), [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Yu Gu](https://scholar.google.com/citations?user=IDYbTZwAAAAJ), [Ge Yu](https://scholar.google.com/citations?user=HClMOmUAAAAJ)
+**Mingyan Wu**, [Zhenghao Liu<sup>†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ),[Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), [Shi Yu](https://scholar.google.com/citations?user=xcMVPTgAAAAJ), [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Yu Gu](https://scholar.google.com/citations?user=IDYbTZwAAAAJ), [Ge Yu](https://scholar.google.com/citations?user=HClMOmUAAAAJ)
 
 [**📃Paper**](https://aclanthology.org/2025.acl-long.629/) \| [**📄PDF**](https://aclanthology.org/2025.acl-long.629.pdf) \| [![](https://img.shields.io/github/stars/NEUIR/RankCoT?style=social&label=Code+Stars)](https://github.com/NEUIR/RankCoT)
 
@@ -59,12 +76,13 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 </div>
 </div>
 
+<!-- GraphAnchor -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/GraphAnchor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # Graph-Anchored Knowledge Indexing for Retrieval-Augmented Generation
 
-[Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), **Mingyan Wu<sup>*</sup>**, [Xinze Li](https://eureka336.github.io), [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), [Minghe Yu](https://aclanthology.org/people/minghe-yu/), [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
+[Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), **Mingyan Wu<sup>*</sup>**, [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
 
 [**📃Paper**](https://www.arxiv.org/abs/2601.16462) \| [**📄PDF**](https://www.arxiv.org/pdf/2601.16462) \| [![](https://img.shields.io/github/stars/NEUIR/GraphAnchor?style=social&label=Code+Stars)](https://github.com/NEUIR/GraphAnchor)
 
