@@ -17,17 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student in Computer Science at [Northeastern University](https://neu.edu.cn/), focusing on Retrieval-Augmented Generation, Large Language Models, and Multi-Modal Large Language Models. Google Scholar: <a href='https://scholar.google.com/citations?user=9YgV-8MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# About Me
+I am currently a second-year Master's student in Computer Science at [Northeastern University](https://neu.edu.cn/), focusing on Retrieval-Augmented Generation. Google Scholar: <a href='https://scholar.google.com/citations?user=9YgV-8MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<!-- I am a second-year M.S. student in Computer Science at [Northeastern University](https://neu.edu.cn/). My current research focuses on Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Multi-Modal LLMs. -->
 
-Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works) .
+Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works).
 
 My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz and hiphop. I usually play folk guitar. If you share these interests, I would be glad to connect and grow together 📞.<br><br>
+
+
+# Research Interests
+My research aims to advance autonomous agents capable of exploring, reasoning, and acting.
+- How can models utilize external knowledge: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [GraphAnchor](https://www.arxiv.org/abs/2601.16462)), Deep Research, AI Memory.
+- How can models reason efficiently: Love to explore collaborations!
+- Agent Infrastructure: [UltraRAG](https://github.com/OpenBMB/UltraRAG).
 
 👀<span style="color:#8952ee; font-weight:bold;">
 I am looking for a Ph.D. position starting in Fall 2027 and would love to explore potential collaborations. Let’s connect!
 </span> 
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
