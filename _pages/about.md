@@ -49,7 +49,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 > \* indicates **equal contribution**, and † indicates **corresponding author**.
 
 <!-- EigentSearch-Q+ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CAIS 2026</div><img src='images/EigentSearch-Q+.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CAIS 2026 Demos</div><img src='images/EigentSearch-Q+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools
