@@ -29,8 +29,9 @@ My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz a
 # 🔎 Research Interests
 My research focuses on agentic systems that integrate external knowledge, efficient reasoning, and scalable infrastructure.
 - **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [GraphAnchor](https://www.arxiv.org/abs/2601.16462)), Deep Research ([EigentSearch-Q+](https://arxiv.org/abs/2604.07927)), AI Memory.
-- **How can models reason efficiently**: Love to explore collaborations!
+- **How can models reason efficiently**: Reasoning Compression ([Mixed-Policy Distillation](https://arxiv.org/abs/2605.08776)).
 - **Agent Infrastructure**: [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG).
+
 
 
 👀<span style="color:#8952ee; font-weight:bold;">
@@ -41,12 +42,26 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Our paper EigentSearch-Q+ is accepted by ACM CAIS 2026 Demos!
 - *2025.08*: &nbsp;🎉 We released [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG) [![](https://img.shields.io/github/stars/OpenBMB/UltraRAG?style=social&label=Code+Stars)](https://github.com/OpenBMB/UltraRAG), an low-code framework for building complex RAG systems!
 - *2025.05*: &nbsp;🎉 Our paper RankCoT is accepted by ACL 2025!
 
 
 # 📝 Publications 
 > \* indicates **equal contribution**, and † indicates **corresponding author**.
+
+<!-- MPD -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/MPD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# Reasoning Compression with Mixed-Policy Distillation
+
+Han Yang*, **Mingyan Wu<sup>*</sup>**, [Bailan He](https://scholar.google.com/citations?user=n5zUQtAAAAAJ), [Zeyu Cao](https://scholar.google.com/citations?user=MiIz8tYAAAAJ), [Sikuan Yan](https://scholar.google.com/citations?user=2DRWdnIAAAAJ), [Kevin Qinghong Lin](https://scholar.google.com/citations?user=EvbGjlUAAAAJ), [Zifeng Ding<sup>*†</sup>](https://scholar.google.com/citations?user=8RapuD4AAAAJ)
+
+[**📃Paper**](https://arxiv.org/abs/2605.08776) \| [**📄PDF**](https://arxiv.org/pdf/2605.08776) 
+- This work proposes Mixed-Policy Distillation (MPD), a reasoning compression framework that transfers concise reasoning behavior from a larger-sized teacher to a smaller student by distilling teacher-compressed student trajectories. This preserves student-policy exploration while injecting teacher-guided compression.
+</div>
+</div>
 
 <!-- EigentSearch-Q+ -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CAIS 2026 Demos</div><img src='images/EigentSearch-Q+.png' alt="sym" width="100%"></div></div>
