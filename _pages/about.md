@@ -121,7 +121,8 @@ Han Yang*, **Mingyan Wu<sup>*</sup>**, [Bailan He](https://scholar.google.com/ci
 - *2023.10 - now*, [NEUIR Lab](https://neuir.github.io), [Northeastern University](https://neu.edu.cn/), Shenyang.
 
 # 🎼 Amateur
-- Dancing 💃: My favorite dance styles are jazz and hiphop. I used to be a part-time dance teacher.
+- Dancing 💃: I've been danced for about nine years. My favorite dance styles are jazz and hiphop. And I also used to be a part-time dance teacher.
 - Guitar 🎸: I am a beginner of guitar and I usually play folk guitar. 
-
-If you share these interests, I would be glad to connect and grow together 📞
+- Swimming 🏊: I’ve recently got into swimming and would like to learn more about it.
+  
+  If you share these interests, I would be glad to connect and grow together 📞.
