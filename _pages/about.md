@@ -69,7 +69,7 @@ Han Yang*, **Mingyan Wu<sup>*</sup>**, [Bailan He](https://scholar.google.com/ci
 
 # EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools
 
-[Boer Zhang](https://scholar.google.com/citations?user=0BJ49hwAAAAJ), **Mingyan Wu**, [Dongzhuoran Zhou](https://scholar.google.com/citations?user=TbZH2gUAAAAJ), [Yuqicheng Zhu](https://scholar.google.com/citations?user=TE5jy5cAAAAJ), Wendong Fan, Puzhen Zhang, [Zifeng Ding](https://scholar.google.com/citations?user=8RapuD4AAAAJ), [Guohao Li](https://scholar.google.com/citations?user=J9K-D0sAAAAJ), [Yuan He<sup>†</sup>](https://scholar.google.com/citations?user=sCXUhQcAAAAJ)
+[Boer Zhang](https://scholar.google.com/citations?user=0BJ49hwAAAAJ), **Mingyan Wu**, [Dongzhuoran Zhou](https://scholar.google.com/citations?user=TbZH2gUAAAAJ), [Yuqicheng Zhu](https://scholar.google.com/citations?user=TE5jy5cAAAAJ), Wendong Fan, [Puzhen Zhang](https://scholar.google.com/citations?user=MuRzXpgAAAAJ), [Zifeng Ding](https://scholar.google.com/citations?user=8RapuD4AAAAJ), [Guohao Li](https://scholar.google.com/citations?user=J9K-D0sAAAAJ), [Yuan He<sup>†</sup>](https://scholar.google.com/citations?user=sCXUhQcAAAAJ)
 
 [**📃Paper**](https://arxiv.org/abs/2604.07927) \| [**📄PDF**](https://arxiv.org/pdf/2604.07927) \| [![](https://img.shields.io/github/stars/camel-ai/eigent_search?style=social&label=Code+Stars)](https://github.com/camel-ai/eigent_search)
 
