@@ -23,7 +23,6 @@ I am currently a second-year Master's student in Computer Science at [Northeaste
 
 Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works).
 
-My hobbies are dancing 💃 and guitar 🎸. My favorite dance styles are jazz and hiphop. I usually play folk guitar. If you share these interests, I would be glad to connect and grow together 📞.<br><br>
 
 
 # 🔎 Research Interests
@@ -120,3 +119,9 @@ Han Yang*, **Mingyan Wu<sup>*</sup>**, [Bailan He](https://scholar.google.com/ci
 # 💻 Internships
 - *2024.04 - now*, [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing.
 - *2023.10 - now*, [NEUIR Lab](https://neuir.github.io), [Northeastern University](https://neu.edu.cn/), Shenyang.
+
+# 🎼 Amateur
+- Dancing 💃: My favorite dance styles are jazz and hiphop. I used to be a part-time dance teacher.
+- Guitar 🎸: I am a beginner of guitar and I usually play folk guitar. 
+
+If you share these interests, I would be glad to connect and grow together 📞
