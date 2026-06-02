@@ -26,9 +26,9 @@ Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/
 
 
 # 🔎 Research Interests
-My research focuses on agentic systems that integrate external knowledge, efficient reasoning, and scalable infrastructure.
-- **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [GraphAnchor](https://www.arxiv.org/abs/2601.16462)), Deep Research ([EigentSearch-Q+](https://arxiv.org/abs/2604.07927)), AI Memory.
-- **How can models reason efficiently**: Reasoning Compression ([Mixed-Policy Distillation](https://arxiv.org/abs/2605.08776)).
+My research focuses on agentic systems that integrate external knowledge, efficient reasoning, and scalable infrastructure. These span:
+- **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [KAIR](https://arxiv.org/abs/2601.16462), [Cost-Aware](https://arxiv.org/abs/2606.02245)), Deep Research ([EigentSearch-Q+](https://arxiv.org/abs/2604.07927)), AI Memory.
+- **How can models reason efficiently**: Reasoning Compression ([Mixed-Policy Distillation](https://arxiv.org/abs/2605.08776)), Multi-Modal Reasoning.
 - **Agent Infrastructure**: [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG).
 
 
@@ -48,6 +48,20 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 # 📝 Publications 
 > \* indicates **equal contribution**, and † indicates **corresponding author**.
+
+<!-- Cost-Aware -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/Cost-Aware.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# When Knowledge Is Not Free: Cost-Aware Evidence Selection in Retrieval-Augmented Generation
+
+**Mingyan Wu<sup>*</sup>**, Han Yang*, [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>*†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
+
+[**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) 
+- This work introduces cost-aware RAG, a setting where retrieved evidence is assigned accesscost tiers and systems must answer under an explicit evidence-access budget. We instantiate this setting by augmenting MS MARCO v2.1 with access-friction tiers and evaluate budgeted evidence selection across generaldomain and domain-specific QA benchmarks.
+</div>
+</div>
+
 
 <!-- MPD -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/MPD.png' alt="sym" width="100%"></div></div>
@@ -90,7 +104,7 @@ Han Yang*, **Mingyan Wu<sup>*</sup>**, [Bailan He](https://scholar.google.com/ci
 </div>
 </div>
 
-<!-- GraphAnchor -->
+<!-- GraphAnchor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/GraphAnchor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,6 +115,20 @@ Han Yang*, **Mingyan Wu<sup>*</sup>**, [Bailan He](https://scholar.google.com/ci
 [**📃Paper**](https://www.arxiv.org/abs/2601.16462) \| [**📄PDF**](https://www.arxiv.org/pdf/2601.16462) \| [![](https://img.shields.io/github/stars/NEUIR/GraphAnchor?style=social&label=Code+Stars)](https://github.com/NEUIR/GraphAnchor)
 
 - This work reconceptualizes knowledge graphs as dynamically evolving indices that anchor salient entities and relations to guide iterative retrieval and answer generation.
+</div>
+</div> -->
+
+<!-- KAIR -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/KAIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# Finding What Matters: Anchoring Context Knowledge with Evolving Indices for Iterative Retrieval
+
+**Mingyan Wu<sup>*</sup>**, [Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), Yuqing Lan, [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
+
+[**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![](https://img.shields.io/github/stars/NEUIR/KAIR?style=social&label=Code+Stars)](https://github.com/NEUIR/KAIR)
+
+- This work proposes a Knowledge Anchoring framework for Iterative Retrieval that anchors knowledge within retrieved knowledge to guide LLMs to locate the key information during iterative retrieval and answer generation.
 </div>
 </div>
 
