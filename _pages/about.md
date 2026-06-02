@@ -57,7 +57,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 **Mingyan Wu<sup>\*</sup>**, Han Yang<sup>\*</sup>, [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) \| [![](https://img.shields.io/github/stars/Mignonmy/Cost-Aware?style=social&label=Code+Stars)](https://github.com/Mignonmy/Cost-Aware)
+[**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) \| [![Code Stars](https://img.shields.io/github/stars/Mignonmy/Cost-Aware?label=Code%20Stars)](https://github.com/Mignonmy/Cost-Aware)
 - This work introduces cost-aware RAG, a setting where retrieved evidence is assigned accesscost tiers and systems must answer under an explicit evidence-access budget. We instantiate this setting by augmenting MS MARCO v2.1 with access-friction tiers and evaluate budgeted evidence selection across generaldomain and domain-specific QA benchmarks.
 </div>
 </div>
@@ -85,7 +85,7 @@ Han Yang<sup>\*</sup>, **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.
 
 [Boer Zhang](https://scholar.google.com/citations?user=0BJ49hwAAAAJ), **Mingyan Wu**, [Dongzhuoran Zhou](https://scholar.google.com/citations?user=TbZH2gUAAAAJ), [Yuqicheng Zhu](https://scholar.google.com/citations?user=TE5jy5cAAAAJ), Wendong Fan, [Puzhen Zhang](https://scholar.google.com/citations?user=MuRzXpgAAAAJ), [Zifeng Ding](https://scholar.google.com/citations?user=8RapuD4AAAAJ), [Guohao Li](https://scholar.google.com/citations?user=J9K-D0sAAAAJ), [Yuan He<sup>†</sup>](https://scholar.google.com/citations?user=sCXUhQcAAAAJ)
 
-[**📃Paper**](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002) \| [**📄PDF**](https://dl.acm.org/doi/epdf/10.1145/3786335.3813186) \| [![](https://img.shields.io/github/stars/camel-ai/eigent_search?style=social&label=Code+Stars)](https://github.com/camel-ai/eigent_search)
+[**📃Paper**](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002) \| [**📄PDF**](https://dl.acm.org/doi/epdf/10.1145/3786335.3813186) \| [![Code Stars](https://img.shields.io/github/stars/camel-ai/eigent_search?label=Code%20Stars)](https://github.com/camel-ai/eigent_search)
 
 - This work introduces Q+, a set of query and evidence processing tools that make web search more deliberate by guiding query planning, monitoring search progress, and extracting evidence from long web snapshots. 
 </div>
@@ -99,7 +99,7 @@ Han Yang<sup>\*</sup>, **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.
 
 **Mingyan Wu**, [Zhenghao Liu<sup>†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ),[Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), [Shi Yu](https://scholar.google.com/citations?user=xcMVPTgAAAAJ), [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Yu Gu](https://scholar.google.com/citations?user=IDYbTZwAAAAJ), [Ge Yu](https://scholar.google.com/citations?user=HClMOmUAAAAJ)
 
-[**📃Paper**](https://aclanthology.org/2025.acl-long.629/) \| [**📄PDF**](https://aclanthology.org/2025.acl-long.629.pdf) \| [![](https://img.shields.io/github/stars/NEUIR/RankCoT?style=social&label=Code+Stars)](https://github.com/NEUIR/RankCoT)
+[**📃Paper**](https://aclanthology.org/2025.acl-long.629/) \| [**📄PDF**](https://aclanthology.org/2025.acl-long.629.pdf) \| [![Code Stars](https://img.shields.io/github/stars/NEUIR/RankCoT?label=Code%20Stars)](https://github.com/NEUIR/RankCoT)
 
 - This work leverages the strengths of both ranking and summarization to effectively refine the knowledge from retrieval results, thereby aiding LLMs in generating more accurate responses.
 </div>
@@ -127,7 +127,7 @@ Han Yang<sup>\*</sup>, **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.
 
 **Mingyan Wu<sup>\*</sup>**, [Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), Yuqing Lan, [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![](https://img.shields.io/github/stars/NEUIR/KAIR?style=social&label=Code+Stars)](https://github.com/NEUIR/KAIR)
+[**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![Code Stars](https://img.shields.io/github/stars/NEUIR/KAIR?label=Code%20Stars)](https://github.com/NEUIR/KAIR)
 
 - This work proposes a Knowledge Anchoring framework for Iterative Retrieval that anchors knowledge within retrieved knowledge to guide LLMs to locate the key information during iterative retrieval and answer generation.
 </div>
