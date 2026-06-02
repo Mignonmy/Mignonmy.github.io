@@ -55,7 +55,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 # When Knowledge Is Not Free: Cost-Aware Evidence Selection in Retrieval-Augmented Generation
 
-**Mingyan Wu<sup>*</sup>**, Han Yang*, [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>*†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
+**Mingyan Wu<sup>\*</sup>**, Han Yang\*, [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>*†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
 
 [**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) 
 - This work introduces cost-aware RAG, a setting where retrieved evidence is assigned accesscost tiers and systems must answer under an explicit evidence-access budget. We instantiate this setting by augmenting MS MARCO v2.1 with access-friction tiers and evaluate budgeted evidence selection across generaldomain and domain-specific QA benchmarks.
@@ -69,7 +69,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 # Reasoning Compression with Mixed-Policy Distillation
 
-Han Yang*, **Mingyan Wu<sup>*</sup>**, [Bailan He](https://scholar.google.com/citations?user=n5zUQtAAAAAJ), [Zeyu Cao](https://scholar.google.com/citations?user=MiIz8tYAAAAJ), [Sikuan Yan](https://scholar.google.com/citations?user=2DRWdnIAAAAJ), [Kevin Qinghong Lin](https://scholar.google.com/citations?user=EvbGjlUAAAAJ), [Zifeng Ding<sup>*†</sup>](https://scholar.google.com/citations?user=8RapuD4AAAAJ)
+Han Yang\*, **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.google.com/citations?user=n5zUQtAAAAAJ), [Zeyu Cao](https://scholar.google.com/citations?user=MiIz8tYAAAAJ), [Sikuan Yan](https://scholar.google.com/citations?user=2DRWdnIAAAAJ), [Kevin Qinghong Lin](https://scholar.google.com/citations?user=EvbGjlUAAAAJ), [Zifeng Ding<sup>*†</sup>](https://scholar.google.com/citations?user=8RapuD4AAAAJ)
 
 [**📃Paper**](https://arxiv.org/abs/2605.08776) \| [**📄PDF**](https://arxiv.org/pdf/2605.08776) 
 - This work proposes Mixed-Policy Distillation (MPD), a reasoning compression framework that transfers concise reasoning behavior from a larger-sized teacher to a smaller student by distilling teacher-compressed student trajectories. This preserves student-policy exploration while injecting teacher-guided compression.
@@ -124,7 +124,7 @@ Han Yang*, **Mingyan Wu<sup>*</sup>**, [Bailan He](https://scholar.google.com/ci
 
 # Finding What Matters: Anchoring Context Knowledge with Evolving Indices for Iterative Retrieval
 
-**Mingyan Wu<sup>*</sup>**, [Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), Yuqing Lan, [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
+**Mingyan Wu<sup>\*</sup>**, [Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), Yuqing Lan, [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
 
 [**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![](https://img.shields.io/github/stars/NEUIR/KAIR?style=social&label=Code+Stars)](https://github.com/NEUIR/KAIR)
 
