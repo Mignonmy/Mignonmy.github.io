@@ -27,7 +27,7 @@ Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/
 
 # 🔎 Research Interests
 My research focuses on agentic systems that integrate external knowledge, efficient reasoning, and scalable infrastructure. These span:
-- **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [KAIR](https://arxiv.org/abs/2601.16462), [Cost-Aware](https://arxiv.org/abs/2606.02245)), Deep Research ([EigentSearch-Q+](https://arxiv.org/abs/2604.07927)), AI Memory.
+- **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [KAIR](https://arxiv.org/abs/2601.16462), [Cost-Aware](https://arxiv.org/abs/2606.02245)), Deep Research ([EigentSearch-Q+](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002)), AI Memory.
 - **How can models reason efficiently**: Reasoning Compression ([Mixed-Policy Distillation](https://arxiv.org/abs/2605.08776)), Multi-Modal Reasoning.
 - **Agent Infrastructure**: [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG).
 
@@ -84,7 +84,7 @@ Han Yang<sup>\*</sup>, **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.
 
 [Boer Zhang](https://scholar.google.com/citations?user=0BJ49hwAAAAJ), **Mingyan Wu**, [Dongzhuoran Zhou](https://scholar.google.com/citations?user=TbZH2gUAAAAJ), [Yuqicheng Zhu](https://scholar.google.com/citations?user=TE5jy5cAAAAJ), Wendong Fan, [Puzhen Zhang](https://scholar.google.com/citations?user=MuRzXpgAAAAJ), [Zifeng Ding](https://scholar.google.com/citations?user=8RapuD4AAAAJ), [Guohao Li](https://scholar.google.com/citations?user=J9K-D0sAAAAJ), [Yuan He<sup>†</sup>](https://scholar.google.com/citations?user=sCXUhQcAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2604.07927) \| [**📄PDF**](https://arxiv.org/pdf/2604.07927) \| [![](https://img.shields.io/github/stars/camel-ai/eigent_search?style=social&label=Code+Stars)](https://github.com/camel-ai/eigent_search)
+[**📃Paper**](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002) \| [**📄PDF**](https://dl.acm.org/doi/epdf/10.1145/3786335.3813186) \| [![](https://img.shields.io/github/stars/camel-ai/eigent_search?style=social&label=Code+Stars)](https://github.com/camel-ai/eigent_search)
 
 - This work introduces Q+, a set of query and evidence processing tools that make web search more deliberate by guiding query planning, monitoring search progress, and extracting evidence from long web snapshots. 
 </div>
