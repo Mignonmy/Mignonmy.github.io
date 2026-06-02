@@ -57,10 +57,11 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 **Mingyan Wu<sup>\*</sup>**, Han Yang<sup>\*</sup>, [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) 
+[**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) \| [![](https://img.shields.io/github/stars/Mignonmy/Cost-Aware?style=social&label=Code+Stars)](https://github.com/Mignonmy/Cost-Aware)
 - This work introduces cost-aware RAG, a setting where retrieved evidence is assigned accesscost tiers and systems must answer under an explicit evidence-access budget. We instantiate this setting by augmenting MS MARCO v2.1 with access-friction tiers and evaluate budgeted evidence selection across generaldomain and domain-specific QA benchmarks.
 </div>
 </div>
+
 
 
 <!-- MPD -->
