@@ -127,7 +127,7 @@ Han Yang<sup>\*</sup>, **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.
 
 **Mingyan Wu<sup>\*</sup>**, [Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), Yuqing Lan, [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![Code Stars](https://img.shields.io/github/stars/NEUIR/KAIR?label=Code%20Stars)](https://github.com/NEUIR/KAIR)
+[**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![Code Stars](https://img.shields.io/github/stars/NEUIR/GraphAnchor?label=Code%20Stars)](https://github.com/NEUIR/KAIR)
 
 - This work proposes a Knowledge Anchoring framework for Iterative Retrieval that anchors knowledge within retrieved knowledge to guide LLMs to locate the key information during iterative retrieval and answer generation.
 </div>
