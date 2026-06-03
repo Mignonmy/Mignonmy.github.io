@@ -85,7 +85,7 @@ Han Yang<sup>\*</sup>, **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.
 
 [Boer Zhang](https://scholar.google.com/citations?user=0BJ49hwAAAAJ), **Mingyan Wu**, [Dongzhuoran Zhou](https://scholar.google.com/citations?user=TbZH2gUAAAAJ), [Yuqicheng Zhu](https://scholar.google.com/citations?user=TE5jy5cAAAAJ), Wendong Fan, [Puzhen Zhang](https://scholar.google.com/citations?user=MuRzXpgAAAAJ), [Zifeng Ding](https://scholar.google.com/citations?user=8RapuD4AAAAJ), [Guohao Li](https://scholar.google.com/citations?user=J9K-D0sAAAAJ), [Yuan He<sup>†</sup>](https://scholar.google.com/citations?user=sCXUhQcAAAAJ)
 
-[**📃Paper**](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002) \| [**📄PDF**](https://dl.acm.org/doi/epdf/10.1145/3786335.3813186) \| [![Code Stars](https://img.shields.io/github/stars/camel-ai/eigent_search?label=Code%20Stars)](https://github.com/camel-ai/eigent_search)
+[**📃Paper**](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002) \| [**📄PDF**](https://dl.acm.org/doi/epdf/10.1145/3786335.3813186) \| [![](https://img.shields.io/github/stars/camel-ai/eigent_search?label=Code+Stars)](https://github.com/camel-ai/eigent_search)
 
 - This work introduces Q+, a set of query and evidence processing tools that make web search more deliberate by guiding query planning, monitoring search progress, and extracting evidence from long web snapshots. 
 </div>
