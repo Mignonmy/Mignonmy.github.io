@@ -29,7 +29,7 @@ Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/
 My research focuses on agentic systems that integrate external knowledge, efficient reasoning, and scalable infrastructure. These span:
 - **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [KAIR](https://arxiv.org/abs/2601.16462), [Cost-Aware](https://arxiv.org/abs/2606.02245)), Deep Research ([EigentSearch-Q+](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002)), AI Memory.
 - **How can models reason efficiently**: Reasoning Compression ([Mixed-Policy Distillation](https://arxiv.org/abs/2605.08776)), Multi-Modal Reasoning.
-- **Agent Infrastructure**: [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG).
+- **Agent Infrastructure**: [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG), [camel-ai](https://github.com/camel-ai).
 
 
 
@@ -55,7 +55,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 # When Knowledge Is Not Free: Cost-Aware Evidence Selection in Retrieval-Augmented Generation
 
-**Mingyan Wu<sup>\*</sup>**, Han Yang<sup>\*</sup>, [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
+**Mingyan Wu<sup>\*</sup>**, [Han Yang<sup>\*</sup>](https://scholar.google.com/citations?user=EeCYEKwAAAAJ&hl=en), [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
 
 [**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) \| [![GitHub stars](https://img.shields.io/github/stars/Mignonmy/Cost-Aware?style=social)](https://github.com/Mignonmy/Cost-Aware)
 - This work introduces cost-aware RAG, a setting where retrieved evidence is assigned accesscost tiers and systems must answer under an explicit evidence-access budget. We instantiate this setting by augmenting MS MARCO v2.1 with access-friction tiers and evaluate budgeted evidence selection across generaldomain and domain-specific QA benchmarks.
@@ -70,7 +70,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 # Reasoning Compression with Mixed-Policy Distillation
 
-Han Yang<sup>\*</sup>, **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.google.com/citations?user=n5zUQtAAAAAJ), [Zeyu Cao](https://scholar.google.com/citations?user=MiIz8tYAAAAJ), [Sikuan Yan](https://scholar.google.com/citations?user=2DRWdnIAAAAJ), [Kevin Qinghong Lin](https://scholar.google.com/citations?user=EvbGjlUAAAAJ), [Zifeng Ding<sup>*†</sup>](https://scholar.google.com/citations?user=8RapuD4AAAAJ)
+[Han Yang<sup>\*</sup>](https://scholar.google.com/citations?user=EeCYEKwAAAAJ&hl=en), **Mingyan Wu<sup>\*</sup>**, [Bailan He](https://scholar.google.com/citations?user=n5zUQtAAAAAJ), [Zeyu Cao](https://scholar.google.com/citations?user=MiIz8tYAAAAJ), [Sikuan Yan](https://scholar.google.com/citations?user=2DRWdnIAAAAJ), [Kevin Qinghong Lin](https://scholar.google.com/citations?user=EvbGjlUAAAAJ), [Zifeng Ding<sup>*†</sup>](https://scholar.google.com/citations?user=8RapuD4AAAAJ)
 
 [**📃Paper**](https://arxiv.org/abs/2605.08776) \| [**📄PDF**](https://arxiv.org/pdf/2605.08776) 
 - This work proposes Mixed-Policy Distillation (MPD), a reasoning compression framework that transfers concise reasoning behavior from a larger-sized teacher to a smaller student by distilling teacher-compressed student trajectories. This preserves student-policy exploration while injecting teacher-guided compression.
